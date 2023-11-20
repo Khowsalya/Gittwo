@@ -1,0 +1,1 @@
+Hi successfully added the cloned file into new repo just by chaning the remote name
